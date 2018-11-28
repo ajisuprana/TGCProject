@@ -1,0 +1,13 @@
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
+{
+    void Update()
+    {
+        var x = Input.GetAxis("Horizontal") * Time.deltaTime * 170.0f;
+        var z = Input.GetAxis("Vertical") * Time.deltaTime * 2.0f;
+
+        transform.Rotate(20, x, 29);
+        transform.Translate(0, 30, z);
+    }
+}
