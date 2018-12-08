@@ -1,0 +1,66 @@
+Ambush		:Flip effect, concealed -> revealed card on the field.
+Blitz		:Able to attack the turn it's deployed.
+Long Reach 	:Can target the backline, even though there's obstacle/ cover in front of the target
+(1)		:Use 1 AP, can only be used once per unit.
+
+Serpent's catapult: 
+-Can only attack once per 2 turns
+-1 turn to reload
+-Activated ability can only be used once.
+-Poisonous cloud offers alternative strats to lockdown enemies further
+
+Poisonous cloud:
+-Deal damage to neighboring unit
+-Neighboring unit = left, right, front, upper left, upper right
+-Works as a poison, forcing the enemy to place the units scattered
+
+Serpent's cavalry:
+-Cavalry be the fastest unit on battlefield
+-Blitz offers fast and quick way to counter swarm, and sometimes archer rush.
+
+Serpent's saboteur:
+-Played as typical infiltration unit (infiltrate, disrupt, misdirect)
+-In your enemies field means they cannot attack it.
+-Increase the cost of enemies hand by 1
+
+Serpent's spearman:
+-Bonus damage to cavalry
+-Infantry with spear remove the disadvantage of height/ higher ground against cavalry. 
+
+Serpent's operative:
+-Played as typical recon unit
+-Pay 1 Upkeep / Action point every turns this card stay on the field
+-Needs a constant resource for a "high" level operative to stay behind enemy lines.
+-Becomes eye to spy the enemies, hands get revealed as long as it's on the field.
+-If somehow returned to our field, it won't reveal our hands. (Not making sense) 
+
+Serpent's footman:
+-Best to be played facedown, to create "ambush"
+-If the footman attacks, or getting attacked while it's on facedown, activate the effect
+-Ambush makes a surprise attack (3 soldiers all at once)
+-Alternative to create advantage through numbers
+
+Serpent's archer:
+-Long range
+-Activated ability can only be used once
+-Deal DOT (Damage Over Time), similar to poison debuff
+-Can be stacked, utilized to bring down heavy/sturdy unit
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Eyes Everywhere:
+-Opponent cannot deploy concealed units (ambush proof)
+-Can use activated ability (once per turn)
+-Small price to get better card than using just 1 AP
+
+Everyone has a price:
+-Pay double the enemies unit cost
+-Take control of that unit
+-Useful lategame to turn the tide
+
+Assassinate:
+-Discard 2 cards as additional cost
+-Kill 1 unit on the battlefield (?)
+-Discard 1 card from enemies hand (randomly/ choose concealed card)
+-Works well with Serpent's operative
+-Revealed card = can choose freely
